@@ -11,6 +11,10 @@ you can build build factories on b and then on 3
 
 if you pressed b once, you don't need to press b anymore
 
+F5 reset the game
+
+F11 full screen mode
+
 if you wish, you can write for another grass_5 texture in the code
 
 it is on the 48th line, you can add:
